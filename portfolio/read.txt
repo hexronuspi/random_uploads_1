@@ -1,0 +1,6 @@
+introduction
+resume
+projects
+skills
+blog
+contact
